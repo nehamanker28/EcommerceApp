@@ -1,0 +1,18 @@
+current directory: /Users/nehamanker/Desktop/PortfolioApps/EcommerceApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/nehamanker/Desktop/PortfolioApps/EcommerceApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241218-88355-gxv3fn sitelibdir\=./.gem.20241218-88355-gxv3fn clean
+
+current directory: /Users/nehamanker/Desktop/PortfolioApps/EcommerceApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241218-88355-gxv3fn sitelibdir\=./.gem.20241218-88355-gxv3fn
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/nehamanker/Desktop/PortfolioApps/EcommerceApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241218-88355-gxv3fn sitelibdir\=./.gem.20241218-88355-gxv3fn install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241218-88355-gxv3fn
+
+current directory: /Users/nehamanker/Desktop/PortfolioApps/EcommerceApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241218-88355-gxv3fn sitelibdir\=./.gem.20241218-88355-gxv3fn clean
